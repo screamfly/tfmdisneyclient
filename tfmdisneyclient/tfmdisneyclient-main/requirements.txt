@@ -1,0 +1,8 @@
+aiodns
+aiofiles
+discord.py==1.7.3
+gspread
+mysqlclient
+SQLAlchemy
+python-dotenv
+ujson
